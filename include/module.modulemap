@@ -1,0 +1,218 @@
+module sdl3 {
+		module assert {
+				 header "SDL3/SDL_assert.h"
+		}
+		module asyncio {
+				 header "SDL3/SDL_asyncio.h"
+		}
+		module atomic {
+				 header "SDL3/SDL_atomic.h"
+		}
+		module audio {
+				 header "SDL3/SDL_audio.h"
+		}
+		module bits {
+				 header "SDL3/SDL_bits.h"
+		}
+		module blendmode {
+				 header "SDL3/SDL_blendmode.h"
+		}
+		module camera {
+				 header "SDL3/SDL_camera.h"
+		}
+		module clipboard {
+				 header "SDL3/SDL_clipboard.h"
+		}
+		module copying {
+				 header "SDL3/SDL_copying.h"
+		}
+		module cpuinfo {
+				 header "SDL3/SDL_cpuinfo.h"
+		}
+		module dialog {
+				 header "SDL3/SDL_dialog.h"
+		}
+		module dlopennote {
+				 textual header "SDL3/SDL_dlopennote.h"
+		}
+		module endian {
+				 header "SDL3/SDL_endian.h"
+		}
+		module error {
+				 header "SDL3/SDL_error.h"
+		}
+		module events {
+				 header "SDL3/SDL_events.h"
+		}
+		module filesystem {
+				 header "SDL3/SDL_filesystem.h"
+		}
+		module gamepad {
+				 header "SDL3/SDL_gamepad.h"
+		}
+		module gpu {
+				 header "SDL3/SDL_gpu.h"
+		}
+		module guid {
+				 header "SDL3/SDL_guid.h"
+		}
+		module haptic {
+				 header "SDL3/SDL_haptic.h"
+		}
+		module hidapi {
+				 header "SDL3/SDL_hidapi.h"
+		}
+		module hints {
+				 header "SDL3/SDL_hints.h"
+		}
+		module init {
+				 header "SDL3/SDL_init.h"
+		}
+		module intrin {
+				 header "SDL3/SDL_intrin.h"
+		}
+		module iostream {
+				 header "SDL3/SDL_iostream.h"
+		}
+		module joystick {
+				 header "SDL3/SDL_joystick.h"
+		}
+		module keyboard {
+				 header "SDL3/SDL_keyboard.h"
+		}
+		module keycode {
+				 header "SDL3/SDL_keycode.h"
+		}
+		module loadso {
+				 header "SDL3/SDL_loadso.h"
+		}
+		module locale {
+				 header "SDL3/SDL_locale.h"
+		}
+		module log {
+				 header "SDL3/SDL_log.h"
+		}
+		module main {
+				 header "SDL3/SDL_main.h"
+		}
+		module messagebox {
+				 header "SDL3/SDL_messagebox.h"
+		}
+		module metal {
+				 header "SDL3/SDL_metal.h"
+		}
+		module misc {
+				 header "SDL3/SDL_misc.h"
+		}
+		module mouse {
+				 header "SDL3/SDL_mouse.h"
+		}
+		module mutex {
+				 header "SDL3/SDL_mutex.h"
+		}
+		module openxr {
+				 header "SDL3/SDL_openxr.h"
+		}
+		module pen {
+				 header "SDL3/SDL_pen.h"
+		}
+		module pixels {
+				 header "SDL3/SDL_pixels.h"
+		}
+		module platform_defines {
+				 header "SDL3/SDL_platform_defines.h"
+		}
+		module platform {
+				 header "SDL3/SDL_platform.h"
+		}
+		module power {
+				 header "SDL3/SDL_power.h"
+		}
+		module process {
+				 header "SDL3/SDL_process.h"
+		}
+		module properties {
+				 header "SDL3/SDL_properties.h"
+		}
+		module rect {
+				 header "SDL3/SDL_rect.h"
+		}
+		module render {
+				 header "SDL3/SDL_render.h"
+		}
+		module revision {
+				 header "SDL3/SDL_revision.h"
+		}
+		module scancode {
+				 header "SDL3/SDL_scancode.h"
+		}
+		module sensor {
+				 header "SDL3/SDL_sensor.h"
+		}
+		module stdinc {
+				 header "SDL3/SDL_stdinc.h"
+		}
+		module storage {
+				 header "SDL3/SDL_storage.h"
+		}
+		module surface {
+				 header "SDL3/SDL_surface.h"
+		}
+		module system {
+				 header "SDL3/SDL_system.h"
+		}
+		module test_assert {
+				 header "SDL3/SDL_test_assert.h"
+		}
+		module test_common {
+				 header "SDL3/SDL_test_common.h"
+		}
+		module test_compare {
+				 header "SDL3/SDL_test_compare.h"
+		}
+		module test_crc32 {
+				 header "SDL3/SDL_test_crc32.h"
+		}
+		module test_font {
+				 header "SDL3/SDL_test_font.h"
+		}
+		module test_fuzzer {
+				 header "SDL3/SDL_test_fuzzer.h"
+		}
+		module test {
+				 header "SDL3/SDL_test.h"
+		}
+		module test_harness {
+				 header "SDL3/SDL_test_harness.h"
+		}
+		module test_log {
+				 header "SDL3/SDL_test_log.h"
+		}
+		module test_md5 {
+				 header "SDL3/SDL_test_md5.h"
+		}
+		module test_memory {
+				 header "SDL3/SDL_test_memory.h"
+		}
+		module thread {
+				 header "SDL3/SDL_thread.h"
+		}
+		module time {
+				 header "SDL3/SDL_time.h"
+		}
+		module timer {
+				 header "SDL3/SDL_timer.h"
+		}
+		module touch {
+				 header "SDL3/SDL_touch.h"
+		}
+		module tray {
+				 header "SDL3/SDL_tray.h"
+		}
+		module version {
+				 header "SDL3/SDL_version.h"
+		}
+		module video {
+				 header "SDL3/SDL_video.h"
+		}
+}
